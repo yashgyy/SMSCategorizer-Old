@@ -1,5 +1,5 @@
 
-### The Following Sms Categoriser Consist of the Following Folders
+### The  Sms Categoriser Consist of the Following Folders
 
 * Deployed Model(Nltk+RandomForesr)
 
