@@ -1,7 +1,7 @@
 
 ### The  Sms Categoriser Consist of the Following Folders
 
-## This Repository Was under Devlopment and consitutes the work about 50% completed and is now  Deprecated. Please see repository SMS Classifier (SMS Classifier)[https://github.com/yashgyy/SMSClassifierFinal] for final Version
+## This Repository Was under Devlopment and consitutes the work about 50% completed and is now  Deprecated. Please see repository SMS Classifier [SMS Classifier](https://github.com/yashgyy/SMSClassifierFinal) for final Version
 
 * Deployed Model(Nltk+RandomForesr)
 
